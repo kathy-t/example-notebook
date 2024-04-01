@@ -1,0 +1,6 @@
+version: 1.2
+notebooks:
+  - name: running-code
+    format: JUPYTER
+    language: PYTHON
+    path: /jupyter/examples/Running Code.ipynb
