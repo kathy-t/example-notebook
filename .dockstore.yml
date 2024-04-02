@@ -3,4 +3,4 @@ notebooks:
   - name: running-code
     format: JUPYTER
     language: PYTHON
-    path: /Running Code.ipynb
+    path: /Running_Code.ipynb
