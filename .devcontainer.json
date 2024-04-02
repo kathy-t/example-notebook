@@ -1,0 +1,11 @@
+{
+  "postAttachCommand": "code /workspaces/example-notebook/Running Code.ipynb",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter",
+        "ms-python.python"
+      ]
+    }
+  }
+}
